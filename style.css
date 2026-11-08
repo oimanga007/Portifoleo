@@ -17,6 +17,13 @@
 body {
   min-height: 100vh;
   background-color: #0e0f1c;
+   min-height: 100vh;
+  background-color: #0e0f1c;
+   background-image:
+        linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+
+    background-size: 40px 40px;
 }
 
 /*CABESALIO*/
